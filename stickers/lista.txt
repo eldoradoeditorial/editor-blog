@@ -1,0 +1,13 @@
+barquito_papel.png
+coral_rosado.png
+flor_morada.png
+flor_seca.png
+golondrina.png
+guacamaya.png
+hibisco_blanco.png
+hibisco_rosa.png
+mariposa_gris.png
+mariposa_naranja.png
+megafono.png
+polilla_gris.png
+sol_naranja.png
